@@ -223,8 +223,10 @@ FW_VERSIONS = {
       b'\xf1\x00TL__ FCA F-CUP      1.00 1.01 99110-D3500         ',
       b'\xf1\x00TL__ FCA F-CUP      1.00 1.02 99110-D3510         ',
       b'\xf1\x00TL__ FCA FHCUP      1.00 1.02 99110-D3500         ',
+      b'\xf1\x00NX4__               1.00 1.00 99110-N9100         ',
     ],
     (Ecu.fwdCamera, 0x7c4, None): [
+      b'\xf1\x00NX4 FR_CMR AT USA LHD 1.00 1.00 99211-CW000 14M',
       b'\xf1\x00TL  MFC  AT KOR LHD 1.00 1.02 95895-D3800 180719',
       b'\xf1\x00TL  MFC  AT KOR LHD 1.00 1.06 95895-D3800 190107',
       b'\xf1\x00TL  MFC  AT USA LHD 1.00 1.06 95895-D3800 190107',
